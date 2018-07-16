@@ -15,6 +15,7 @@ public:
 
     EmailValidator::State ValidateEmail(QString email);
 
+
 private:
     QString email;
     QString password;
